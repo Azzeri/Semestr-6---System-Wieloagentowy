@@ -1,0 +1,457 @@
+[{
+    "name": "Iron Maiden",
+    "artist": "Iron Maiden",
+    "date": "1980-4-14",
+    "length": 40,
+    "albumformat": "Kompakt",
+    "price": 47.17,
+    "atmospheresmatch": [
+        1,
+        2,
+        0,
+        2,
+        1,
+        3,
+        1
+    ],
+    "languagesmatch": [
+        0,
+        3,
+        0
+    ],
+    "nationmatch": [
+        0,
+        3
+    ],
+    "occassionsmatch": [
+        3,
+        3,
+        1,
+        1,
+        1
+    ],
+    "quantity": 19,
+    "lengthmatch": [
+        1,
+        2,
+        1
+    ]
+},{
+    "name": "Songs of Love and Death",
+    "artist": "Me and That Man",
+    "date": "2017-3-24",
+    "length": 49,
+    "albumformat": "Kompakt",
+    "price": 28.0,
+    "atmospheresmatch": [
+        2,
+        0,
+        1,
+        1,
+        1,
+        1,
+        2
+    ],
+    "languagesmatch": [
+        0,
+        3,
+        0
+    ],
+    "nationmatch": [
+        3,
+        3
+    ],
+    "occassionsmatch": [
+        1,
+        1,
+        2,
+        1,
+        3
+    ],
+    "quantity": 3,
+    "lengthmatch": [
+        0,
+        3,
+        2
+    ]
+},{
+    "name": "Hybrid Theory",
+    "artist": "Linkin Park",
+    "date": "2000-10-14",
+    "length": 49,
+    "albumformat": "Kompakt",
+    "price": 52.03,
+    "atmospheresmatch": [
+        2,
+        2,
+        1,
+        2,
+        1,
+        2,
+        1
+    ],
+    "languagesmatch": [
+        0,
+        3,
+        0
+    ],
+    "nationmatch": [
+        0,
+        3
+    ],
+    "occassionsmatch": [
+        2,
+        1,
+        2,
+        2,
+        2
+    ],
+    "quantity": 14,
+    "lengthmatch": [
+        0,
+        3,
+        2
+    ]
+},{
+    "name": "Ponad Wszystko",
+    "artist": "Ewelina Lisowska",
+    "date": "2016-11-11",
+    "length": 55,
+    "albumformat": "Kompakt",
+    "price": 21.97,
+    "atmospheresmatch": [
+        3,
+        1,
+        3,
+        0,
+        3,
+        1,
+        2
+    ],
+    "languagesmatch": [
+        3,
+        0,
+        0
+    ],
+    "nationmatch": [
+        3,
+        0
+    ],
+    "occassionsmatch": [
+        1,
+        1,
+        2,
+        3,
+        3
+    ],
+    "quantity": 26,
+    "lengthmatch": [
+        0,
+        3,
+        2
+    ]
+},{
+    "name": "Arachne",
+    "artist": "Hunter",
+    "date": "2019-3-8",
+    "length": 47,
+    "albumformat": "Kompakt",
+    "price": 33.26,
+    "atmospheresmatch": [
+        2,
+        1,
+        1,
+        2,
+        1,
+        1,
+        2
+    ],
+    "languagesmatch": [
+        3,
+        0,
+        0
+    ],
+    "nationmatch": [
+        3,
+        0
+    ],
+    "occassionsmatch": [
+        1,
+        1,
+        0,
+        1,
+        2
+    ],
+    "quantity": 32,
+    "lengthmatch": [
+        0,
+        3,
+        2
+    ]
+},{
+    "name": "Niemozliwe",
+    "artist": "Kwiat Jabloni",
+    "date": "2019-2-1",
+    "length": 46,
+    "albumformat": "Kompakt",
+    "price": 29.62,
+    "atmospheresmatch": [
+        2,
+        2,
+        3,
+        0,
+        2,
+        0,
+        1
+    ],
+    "languagesmatch": [
+        3,
+        0,
+        0
+    ],
+    "nationmatch": [
+        3,
+        0
+    ],
+    "occassionsmatch": [
+        1,
+        0,
+        2,
+        2,
+        3
+    ],
+    "quantity": 10,
+    "lengthmatch": [
+        0,
+        3,
+        2
+    ]
+},{
+    "name": "Age of Excuse",
+    "artist": "Mgla",
+    "date": "2019-9-2",
+    "length": 42,
+    "albumformat": "Kompakt",
+    "price": 33.67,
+    "atmospheresmatch": [
+        2,
+        0,
+        0,
+        3,
+        1,
+        3,
+        1
+    ],
+    "languagesmatch": [
+        0,
+        3,
+        0
+    ],
+    "nationmatch": [
+        3,
+        0
+    ],
+    "occassionsmatch": [
+        1,
+        2,
+        0,
+        0,
+        1
+    ],
+    "quantity": 15,
+    "lengthmatch": [
+        1,
+        2,
+        1
+    ]
+},{
+    "name": "Exercises in Futility",
+    "artist": "Mgla",
+    "date": "2015-9-4",
+    "length": 42,
+    "albumformat": "Kompakt",
+    "price": 32.68,
+    "atmospheresmatch": [
+        2,
+        0,
+        0,
+        3,
+        1,
+        3,
+        1
+    ],
+    "languagesmatch": [
+        0,
+        3,
+        0
+    ],
+    "nationmatch": [
+        3,
+        0
+    ],
+    "occassionsmatch": [
+        1,
+        2,
+        0,
+        0,
+        1
+    ],
+    "quantity": 21,
+    "lengthmatch": [
+        1,
+        2,
+        1
+    ]
+},{
+    "name": "Ballady",
+    "artist": "Kat",
+    "date": "1993-1-2",
+    "length": 55,
+    "albumformat": "Kompakt",
+    "price": 29.67,
+    "atmospheresmatch": [
+        2,
+        1,
+        2,
+        2,
+        3,
+        1,
+        2
+    ],
+    "languagesmatch": [
+        3,
+        0,
+        0
+    ],
+    "nationmatch": [
+        3,
+        0
+    ],
+    "occassionsmatch": [
+        1,
+        1,
+        1,
+        1,
+        3
+    ],
+    "quantity": 11,
+    "lengthmatch": [
+        0,
+        3,
+        2
+    ]
+},{
+    "name": "Fallen",
+    "artist": "Evanescence",
+    "date": "2003-3-4",
+    "length": 48,
+    "albumformat": "Kompakt",
+    "price": 54.29,
+    "atmospheresmatch": [
+        3,
+        0,
+        1,
+        2,
+        1,
+        1,
+        2
+    ],
+    "languagesmatch": [
+        0,
+        3,
+        0
+    ],
+    "nationmatch": [
+        0,
+        3
+    ],
+    "occassionsmatch": [
+        2,
+        1,
+        1,
+        1,
+        2
+    ],
+    "quantity": 34,
+    "lengthmatch": [
+        0,
+        3,
+        2
+    ]
+},{
+    "name": "Meliora",
+    "artist": "Ghost",
+    "date": "2015-8-21",
+    "length": 66,
+    "albumformat": "Kompakt",
+    "price": 80.71,
+    "atmospheresmatch": [
+        1,
+        2,
+        1,
+        2,
+        1,
+        1,
+        3
+    ],
+    "languagesmatch": [
+        0,
+        3,
+        1
+    ],
+    "nationmatch": [
+        0,
+        3
+    ],
+    "occassionsmatch": [
+        2,
+        1,
+        1,
+        1,
+        2
+    ],
+    "quantity": 6,
+    "lengthmatch": [
+        0,
+        2,
+        3
+    ]
+},{
+    "name": "Krolestwo",
+    "artist": "Hunter",
+    "date": "2012-11-5",
+    "length": 38,
+    "albumformat": "Kompakt",
+    "price": 24.91,
+    "atmospheresmatch": [
+        2,
+        1,
+        1,
+        2,
+        1,
+        2,
+        2
+    ],
+    "languagesmatch": [
+        3,
+        0,
+        0
+    ],
+    "nationmatch": [
+        3,
+        0
+    ],
+    "occassionsmatch": [
+        2,
+        1,
+        1,
+        1,
+        1
+    ],
+    "quantity": 20,
+    "lengthmatch": [
+        1,
+        2,
+        1
+    ]
+}]
